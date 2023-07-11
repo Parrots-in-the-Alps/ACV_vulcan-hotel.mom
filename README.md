@@ -1,6 +1,6 @@
 # Évaluation de l’impact environnemental moyen du site vulcan-hôtel.mom
 
-> ACV screening > [vulcan-hôtel.mom](https://theo.vulcan-hôtel.mom)
+> ACV screening > [vulcan-hôtel.mom](https://theo.vulcan-hotel.mom)
 
 ## 1. Définition de l'objectif et du périmètre
 
