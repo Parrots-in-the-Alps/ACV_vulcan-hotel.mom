@@ -1,3 +1,13 @@
+# Installation et utilisation de compiiile pour cette étude :
+
+```shell=
+git clone https://github.com/Parrots-in-the-Alps/ACV_vulcan-hotel.mom
+cd ACV_vulcan-hotel.mom
+npm i
+compiiile
+```
+---
+
 # Évaluation de l’impact environnemental moyen du site vulcan-hôtel.mom
 
 > ACV screening > [vulcan-hôtel.mom](https://theo.vulcan-hotel.mom)
