@@ -53,3 +53,16 @@ L'étude ne portera pas sur ces exclusions du au manque de mesure :
 
 ## 3. Analyse d’impact sur le cycle de vie (AICV)
 
+## 3.1 Développement
+
+![Utilisation minéraux fabrication équipement développement](https://cdn.discordapp.com/attachments/1036326928921149460/1128330501816586321/image.png)
+![Utilisation en eau](https://cdn.discordapp.com/attachments/1036326928921149460/1128330558943019018/image.png)
+![Changement climatique total fabrication équipement développement](https://cdn.discordapp.com/attachments/1036326928921149460/1128330662026428486/image.png)
+![Émissions substances radionisantes équipement développement](https://cdn.discordapp.com/attachments/1036326928921149460/1128330771522924554/image.png)
+
+## 3.2 Utilisation
+
+![Utilisation minéraux fabrication équipement utilisation](https://cdn.discordapp.com/attachments/1036326928921149460/1128330972887261225/image.png)
+![Utilisation en eau](https://cdn.discordapp.com/attachments/1036326928921149460/1128331047302602813/image.png)
+![Changement climatique total fabrication équipement développement](https://cdn.discordapp.com/attachments/1036326928921149460/1128331161870020749/image.png)
+![Émissions substances radionisantes équipement développement](https://cdn.discordapp.com/attachments/1036326928921149460/1128331236578959430/image.png)
